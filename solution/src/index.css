@@ -148,8 +148,6 @@ ul {
     align-items: center;
   }
 
-  /* bellow this add to mobile version */
-
   .star-div{
     display: flex;
     align-items: center;
@@ -250,8 +248,5 @@ ul {
     transition: all 0.1s ease-in-out;
     color: #FC7614;
   }
-
-
-
 }
 
